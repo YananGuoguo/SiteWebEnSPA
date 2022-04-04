@@ -1,0 +1,22 @@
+{
+  "name": "exempleajax-fichier-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucom89/Labo1_SPA_JSON.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ucom89/Labo1_SPA_JSON/issues"
+  },
+  "homepage": "https://github.com/ucom89/Labo1_SPA_JSON#readme",
+  "description": "",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}

@@ -1,0 +1,130 @@
+.bg-light {
+    
+    margin-bottom: 50px;
+   background-color: #00238c;
+    background-image: url(http://www.transparenttextures.com/patterns/squared-metal.png);
+}
+
+.logo{
+font-family:fantasy;
+font-size: 30px;
+color: red;
+margin-right: 60px;
+font-weight: bold;
+
+}
+
+ul{
+
+margin-right: 60px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
+
+.d-flex{
+    margin-left: 60px;
+}
+
+
+.xyz {
+    background-size: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+.btn-circle.btn-sm {
+    width: 10px;
+    height: 10px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    font-size: 8px;
+    text-align: center;
+}
+.btn-circle.btn-md {
+    width: 30px;
+    height: 30px;
+    padding: 7px 10px;
+    border-radius: 25px;
+    font-size: 10px;
+    text-align: center;
+}
+.btn-circle.btn-xl {
+    width: 50px;
+    height: 50px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 12px;
+    text-align: center;
+}
+b{
+    font-size: 30px;
+}
+h4 {
+    color: salmon;
+    font-size: 12px;
+    opacity: 0.9;
+}
+.categ{
+    font-size: 18px;
+    color: silver;
+
+}
+
+h6 {
+    font-size: 18px;
+    color: silver;
+}
+
+h3 {
+    font-family: 'Lobster', cursive;
+}
+
+h5 {
+    font-size: 18px;
+    font-family: monospace;
+}
+.card{
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+ 
+
+    background-color: #ffffff;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
+    
+
+}
+
+body {
+    background-image: url("../images/background1.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.fa-edit{
+    
+    color:blue;
+    font-size: x-large;
+    float: right;
+    position: relative;
+    margin: 10px;
+   
+}
+ 
+.fa-trash-alt{
+    color: red;
+    font-size: x-large;
+    float: right;
+    position: relative;
+    margin: 10px;
+    margin-left: 50px;
+   
+
+}
+
+.fa-plus-square{
+    color: green;
+    font-size: xx-large;
+}
